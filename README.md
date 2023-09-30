@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArpitPaliwal
+- 👋 Hi, I’m ArpitPaliwal
 - 🌱 I’m currently learning Frontend web devlopment
 - 💞️ I’m looking to collaborate on Opensource Programs
 - 📫 How to reach me Paliwalarpit08@gmail.com
