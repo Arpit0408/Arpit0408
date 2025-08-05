@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ArpitPaliwal
-- 🌱 I’m a FrontEnd Developer
+- 🌱 I’m a MERN Stack Developer
 - 💞️ I’m looking to collaborate on Opensource Programs
 - 📫 How to reach me Paliwalarpit08@gmail.com /
 - instgram & X(Twitter)- iamarpitpaliwal
