@@ -3,30 +3,15 @@
 
 📧 **Email Me:** **paliwalarpit180@gmail.com** for collaborations, projects, or anything exciting! ✨
 
----
+### 🚀 Currently Learning  - React Native  
 
-### 🚀 Currently Learning  
-- React Native  
+### 🤝 Looking to Collaborate On  - Frontend Projects  - React-based Applications  
 
-### 🤝 Looking to Collaborate On  
-- Frontend Projects  
-- React-based Applications  
+### 🧩 Ask Me About  - React.js  - Frontend Development  - UI/UX Implementation  
 
-### 🧩 Ask Me About  
-- React.js  
-- Frontend Development  
-- UI/UX Implementation  
+### 📬 How to Reach Me  - **Email:** paliwalarpit180@gmail.com  
 
-### 📬 How to Reach Me  
-- **Email:** paliwalarpit180@gmail.com  
-
----
-
-### 😎 Pronouns  
-- He/Him  
-
-### 🤖 Fun Fact  
-- I build UIs faster than my coffee gets cold ☕⚡
+### 🤖 Fun Fact  - I build UIs faster than my coffee gets cold ☕⚡
 
 
 ## 🌐 Socials:
