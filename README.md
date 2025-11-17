@@ -1,3 +1,33 @@
+# 🌟 Hey there! 🙌 I'm **Arpit Paliwal**
+**A passionate React.js Developer from India**
+
+📧 **Email Me:** **paliwalarpit180@gmail.com** for collaborations, projects, or anything exciting! ✨
+
+---
+
+### 🚀 Currently Learning  
+- React Native  
+
+### 🤝 Looking to Collaborate On  
+- Frontend Projects  
+- React-based Applications  
+
+### 🧩 Ask Me About  
+- React.js  
+- Frontend Development  
+- UI/UX Implementation  
+
+### 📬 How to Reach Me  
+- **Email:** paliwalarpit180@gmail.com  
+
+---
+
+### 😎 Pronouns  
+- He/Him  
+
+### 🤖 Fun Fact  
+- I build UIs faster than my coffee gets cold ☕⚡
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamarpitpaliwal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-paliwal-47b660248) 
